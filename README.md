@@ -1,4 +1,4 @@
-sing a script executor in Roblox can significantly increase the risk of your account being banned, especially if the executor is used to cheat or disrupt gameplay.
+Using a script executor in Roblox can significantly increase the risk of your account being banned, especially if the executor is used to cheat or disrupt gameplay.
 Roblox's Terms of Service explicitly prohibit the use of unauthorized software that modifies gameplay or provides unfair advantages, and violating this policy can result in 
 temporary suspensions or even permanent bans. While simply having an executor installed on your computer does not automatically lead to a ban, using it to run exploitative 
 scripts in games significantly increases the risk of detection and account penalties. Even if the executor itself is not flagged, the scripts you run with it can trigger 
